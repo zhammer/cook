@@ -1,0 +1,24 @@
+#define Ansi_0_Color #1A1E21
+#define Ansi_1_Color #DA5631
+#define Ansi_2_Color #399A31
+#define Ansi_3_Color #F1B52A
+#define Ansi_4_Color #245C70
+#define Ansi_5_Color #732255
+#define Ansi_6_Color #6FAAB5
+#define Ansi_7_Color #CDC2BD
+#define Ansi_8_Color #2E3030
+#define Ansi_9_Color #E87F5B
+#define Ansi_10_Color #94C693
+#define Ansi_11_Color #F0C03E
+#define Ansi_12_Color #328DA0
+#define Ansi_13_Color #C86199
+#define Ansi_14_Color #96C5CB
+#define Ansi_15_Color #ECECE8
+
+#define Background_Color #FFFFFF
+#define Bold_Color #424242
+#define Cursor_Color #F5AF4D
+#define Cursor_Text_Color #424242
+#define Foreground_Color #424242
+#define Selected_Text_Color #424242
+#define Selection_Color #D1E1ED
